@@ -74,13 +74,13 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-//        binding.btnNewContact.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                Intent intent = new Intent(MainActivity.this, NewContact.class);
-//                startActivity(intent);
-//            }
-//        });
+        binding.btnNewContact.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, NewContact.class);
+                startActivity(intent);
+            }
+        });
 
 
 
