@@ -3,4 +3,5 @@
     <color name="custom_bg_toolbar">#3665DA</color>
     <color name="white">#FFFFFFFF</color>
     <color name="custom_bg_avatar">#857C7C</color>
+    <color name="custom_primary">#3665DA</color>
 </resources>
