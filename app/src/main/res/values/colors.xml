@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="custom_bg_toolbar">#3665DA</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="custom_bg_avatar">#857C7C</color>
+</resources>
